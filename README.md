@@ -95,3 +95,9 @@
 
 •	Thoroughly tested the application both manually and through automated tests to ensure reliability and functionality.
 
+**Coming Soon: Exciting New Features for Enhanced User Experience**
+
+•	Bookmark functionality is on the horizon.
+•	Upcoming updates will allow users to modify images within their posts.
+•	The ability to edit your profile bio will be coming soon.
+•	Stay tuned for the rollout of additional features.
